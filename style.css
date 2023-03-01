@@ -2,3 +2,11 @@
     height: 80vh;
     align-items: center;
 }
+
+body {
+    width: 100%;
+}
+
+.line {
+    border: 2px solid black;
+}
