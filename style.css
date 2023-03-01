@@ -10,3 +10,19 @@ body {
 .line {
     border: 2px solid black;
 }
+
+.card-all {
+  background: url("images/card1.png") 100% no-repeat;
+  background-size: cover;
+}
+.content-1:hover {
+  opacity: 0;
+}
+
+.content-1 {
+    background:
+      linear-gradient( 180.45deg, rgba( 38, 38, 38, 0 ) 0.75%, rgba( 38, 38, 38, 0.9 ) 61.94% );
+    color: #fff;
+    padding: 5%;
+    opacity: 1;
+  }
