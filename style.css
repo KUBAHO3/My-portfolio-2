@@ -11,6 +11,12 @@ body {
     border: 2px solid black;
 }
 
+.line-white {
+    border: 2px solid white;
+   margin-right: 8%;
+   margin-left: 8%;
+}
+
 .card-all {
   background: url("images/card1.png") 100% no-repeat;
   background-size: cover;
