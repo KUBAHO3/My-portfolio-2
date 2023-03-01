@@ -1,6 +1,11 @@
 #hero {
-    height: 80vh;
     align-items: center;
+}
+
+@media only screen and (max-width: 768px){
+    #connect-icons {
+        display: none;
+    }
 }
 
 body {
