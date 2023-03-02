@@ -1,4 +1,5 @@
 #hero {
+<<<<<<< HEAD
   height: 90vh;
   align-items: center;
 }
@@ -43,4 +44,44 @@
 #tech {
   list-style: none;
   gap: 10px;
+=======
+  align-items: center;
+}
+
+@media only screen and (max-width: 768px) {
+  #connect-icons {
+    display: none;
+  }
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.line {
+  border: 2px solid black;
+}
+
+.line-white {
+  border: 2px solid white;
+  margin-right: 8%;
+  margin-left: 8%;
+}
+
+.card-all {
+  background: url("images/card1.png") 100% no-repeat;
+  background-size: cover;
+}
+
+.content-1 {
+  background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%);
+  color: #fff;
+  padding: 5%;
+  opacity: 1;
+}
+
+.content-1:hover {
+  opacity: 0;
+>>>>>>> bd9f24a69059e7c0bdc89b07537e529ceeb678fe
 }
