@@ -1,4 +1,48 @@
 #hero {
+  height: 90vh;
+  align-items: center;
+}
+
+.card {
+  height: 400px;
+}
+
+.card ul {
+  list-style: none;
+  gap: 5px;
+}
+
+.card li {
+  background: grey;
+}
+
+#card1 {
+  background-image: url(images/Img\ Placeholder\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#card2 {
+  background-image: url(images/Img\ Placeholder\ 2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#card3 {
+  background-image: url(images/Img\ Placeholder\ 3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#card4 {
+  background-image: url(images/Img\ Placeholder\ 4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tech {
+  list-style: none;
+  gap: 10px;
   align-items: center;
 }
 
