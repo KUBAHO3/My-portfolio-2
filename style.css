@@ -1,5 +1,4 @@
 #hero {
-<<<<<<< HEAD
   height: 90vh;
   align-items: center;
 }
@@ -44,7 +43,6 @@
 #tech {
   list-style: none;
   gap: 10px;
-=======
   align-items: center;
 }
 
@@ -83,5 +81,4 @@ body {
 
 .content-1:hover {
   opacity: 0;
->>>>>>> bd9f24a69059e7c0bdc89b07537e529ceeb678fe
 }
